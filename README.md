@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! 👋, I’m Carlos G. Cantón</h1> <br>
+<h1 align="center">Hi there! 👋, I’m Carlos G. Cantón from México 🌎 </h1> <br>
 
 
 - 👀 I’m interested in DATA ANALYST | PYTHON | SQL | POWER BI | DATA SCIENTIST
