@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="/data scientist.png" width="650" height="300">
+  <img src="/data scientist.png" width="750" height="250">
 </p>
 
   
