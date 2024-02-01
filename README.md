@@ -1,4 +1,8 @@
+<p align='center'>
+  <img src="/data scientist.png" width="450" height="200">
+</p>
 
+  
 <h1 align="center">Hi there! 👋, I’m Carlos G. Cantón a Data Scientist 📊 from México 🌎 </h1> <br>
 
 
