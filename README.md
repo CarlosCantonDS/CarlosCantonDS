@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi there! 👋, I’m Carlos G. Cantón from México 🌎 </h1> <br>
+<h1 align="center">Hi there! 👋, I’m Carlos G. Cantón a Data Scientist 📊 from México 🌎 </h1> <br>
 
 
-- 👀 I’m interested in DATA ANALYST | PYTHON | SQL | POWER BI | DATA SCIENTIST
-- 🌱 The last 2 years I developed software solutions for the automation of document flows for LATAM companies such as banks and law firms and now I am in a professional career shift to focus on data analysis, adding new skills to my previous experience with a bootcamp of +700 theoretical/practical hours in data science.
+- 👀 I’m interested in DATA ANALYST | PYTHON | SQL | POWER BI | DATA SCIENCE | GOOGLE CLOUD PLATFORM | MACHINE LEARNING
+- 🌱 The last 2 years I developed software solutions for the automation of document flows for LATAM companies such as banks. Currently, my main projects are with Python, SQL and Power BI, working with the SCRUM methodology, organization and autonomy✅. My vision for 5 years is to be a Project Manager in the data area and senior in this industry 🦾.
 
 
 - 📫 How to reach me **cag.canton@gmail.com**
