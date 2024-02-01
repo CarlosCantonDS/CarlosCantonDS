@@ -11,7 +11,7 @@
 - 📫 How to reach me **cag.canton@gmail.com**
 
 <p align='center'>
-  <img src="/Austen Tech.png" width="650" height="220">
+  <img src="/Austen Tech.png" width="650" height="220" style="border-radius: 10px;">
 </p>
 
 
