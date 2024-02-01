@@ -11,7 +11,7 @@
 - 📫 How to reach me **cag.canton@gmail.com**
 
 <p align='center'>
-  <img src="/Data-Analytics-Benefits-768x403.png" width="450" height="200">
+  <img src="/Austen Tech.png" width="450" height="200">
 </p>
 
 
