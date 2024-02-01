@@ -10,6 +10,11 @@
 
 - 📫 How to reach me **cag.canton@gmail.com**
 
+<p align='center'>
+  <img src="/Austen Tech.png" width="450" height="200">
+</p>
+
+
 <!---
 CarlosCantonDS/CarlosCantonDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
